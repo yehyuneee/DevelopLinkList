@@ -8,3 +8,5 @@
 ### 3. Koin 
 ##### - https://jaejong.tistory.com/153
 ##### - https://spoqa.github.io/2020/11/02/android-dependency-injection-with-koin.html
+### 4. interview prepare
+##### - https://www.notion.so/imwj/Android-Interview-3ce7ddf12ddb413a9d2213173654d52c
